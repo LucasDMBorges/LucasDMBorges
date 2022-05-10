@@ -1,6 +1,6 @@
 ### Olá Mundo 👋
-- 🔭 Hoje trabalho como Desenvolvedor Front-End
-- 🌱 Estou estudando Angular
+- 🔭 Hoje trabalho como Desenvolvedor Front-End em Angular
+- 🌱 Estou estudando React-Native
 - 😄 Pronomes: Ele/Dele
 
 

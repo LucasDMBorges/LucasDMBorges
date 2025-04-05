@@ -45,8 +45,6 @@ Se você precisa de um desenvolvedor front-end experiente para:
 
 Entre em contato comigo!
 
-<br>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasDMBorges/LucasDMBorges/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasDMBorges/LucasDMBorges/output/github-contribution-grid-snake-dark.svg">

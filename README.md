@@ -15,7 +15,7 @@ Sou um desenvolvedor front-end com foco em Angular e experiência em construir i
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/lucas-dean-b09868169/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDMBorges&show_icons=true&theme=hacker&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasDMBorges&bg_color=000show_icons=true&theme=hacker&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDMBorges&layout=compact&langs_count=7&theme=hacker"/>
   </a>
 </div>
@@ -44,3 +44,11 @@ Se você precisa de um desenvolvedor front-end experiente para:
 * Otimizar o desempenho do seu site.
 
 Entre em contato comigo!
+
+<br>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasDMBorges/LucasDMBorges/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasDMBorges/LucasDMBorges/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucasDMBorges/LucasDMBorges/output/github-contribution-grid-snake.svg">
+</picture>
